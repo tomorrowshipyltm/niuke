@@ -3,7 +3,7 @@
 - LeetCode刷题，  [代码随想录](https://programmercarl.com/0516.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.html) 和  [labuladong 的算法笔记](https://labuladong.gitee.io/algo/di-ling-zh-bfe1b/shuang-zhi-0f7cc/)
 
 - 八股文， [对线面试官](https://github.com/ZhongFuCheng3y/athena) 可以打印成册 ，  [面渣逆袭](https://javabetter.cn/sidebar/sanfene/network.html)
-- 记忆工具 [Anki笔记](https://pan.baidu.com/s/1uBf0mWEGhbe6hc412Qxyzw)：
+- 记忆工具 [Anki笔记 网盘链接](https://pan.baidu.com/s/1uBf0mWEGhbe6hc412Qxyzw)：
   - 代码随想录
     - chapter1-数组/链表/字符串
     - chapter2-二叉树
