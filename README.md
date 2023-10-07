@@ -10,7 +10,7 @@
     - chapter3-回溯法/贪心
     - chapter4-动态规划
     - chapter5-图论
-  - 代码随想录
+  - 八股文
     - chapter1-中间件
     - chapter2-Java技术栈
     - chapter3-数据库+网络
